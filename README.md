@@ -115,9 +115,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waleedsaifi0890" alt="waleedsaifi0890" /></a> </p>
 
-<h3 align="left">Statistics</h3>
-<br>
-<br>
 
 <h3 align="left">Statistics</h3>
 <p align="left">
