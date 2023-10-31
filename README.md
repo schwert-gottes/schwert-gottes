@@ -117,10 +117,7 @@
 
 <h3 align="left">Statistics</h3>
 <p align="left">
-</p>
-
-
-<p align="center">
+  <p align="center">
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schwert-gottes&show_icons=true&locale=en&layout=compact" alt="schwert-gottes" /></p>
 </p>
@@ -130,6 +127,10 @@
    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schwert-gottes&" alt="schwert-gottes" /></p>
 </p>
+</p>
+
+
+
 
 
 
