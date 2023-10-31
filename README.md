@@ -10,7 +10,7 @@
 
 
 
-# Hello there 👋, I'm SaifUllah Alam
+# Hello there 👋
 
 ### Software Engineer/MERN Stack Developer
 
