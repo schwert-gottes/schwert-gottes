@@ -124,6 +124,7 @@
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=schwert-gottes&show_icons=true&locale=en&layout=compact" alt="schwert-gottes" /></p>
 </p>
+</p>
 <p align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=schwert-gottes&show_icons=true&locale=en" alt="schwert-gottes" /></p>
    
