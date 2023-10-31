@@ -126,8 +126,9 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedsaifi0890&show_icons=true&locale=en&layout=compact" alt="waleedsaifi0890" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedsaifi0890&" alt="waleedsaifi0890" width="40%" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=waleedsaifi0890&show_icons=true&locale=en" alt="waleedsaifi0890" width="40%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=schwert-gottes&show_icons=true&locale=en" alt="schwert-gottes" />&nbsp;&nbsp;&nbsp;&nbsp;
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=schwert-gottes&" alt="schwert-gottes" />
 </p>
 
 
